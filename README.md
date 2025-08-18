@@ -1,1 +1,1 @@
-###Volatility Regime-Switching ETF Portfolio Optimization using Hidden Markov Models 
+# Volatility Regime-Switching ETF Portfolio Optimization using Hidden Markov Models 
