@@ -22,7 +22,7 @@ The key design principle is **strict temporal separation** — the model is only
 ---
 ## Results
 
-![Rolling Performance Metrics](rolling_metrics.png)
+![Rolling Performance Metrics](rolling-metrics.png)
 *Rolling 1-year Sharpe, returns, and alpha vs SPY benchmark. Strategy consistently generates positive alpha except around 2015–2016 and 2024.*
 
 ### Full Period (2002–2025)
